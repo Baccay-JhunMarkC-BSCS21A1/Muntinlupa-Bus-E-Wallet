@@ -41,5 +41,15 @@ namespace Muntinlupa_Bus_E_Wallet
             form.Show();
             this.Close();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -51,5 +51,15 @@ namespace Muntinlupa_Bus_E_Wallet
             }
             
         }
+
+        private void SearchBar_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

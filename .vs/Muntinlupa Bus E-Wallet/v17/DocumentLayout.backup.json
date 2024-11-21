@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -23,12 +11,24 @@
       "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LoginTabs.cs",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\LoginTabs.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\LoginTabs.cs",
@@ -66,36 +66,33 @@
               "RelativeToolTip": "Muntinlupa Bus E-Wallet\\LoginTabs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T14:12:35.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T14:12:35.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\Form1.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\Form1.cs",
               "ToolTip": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\Form1.cs [Design]",
               "RelativeToolTip": "Muntinlupa Bus E-Wallet\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:39:05.704Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-15T13:39:05.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginTabs.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\LoginTabs.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\LoginTabs.cs",
               "ToolTip": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\LoginTabs.cs [Design]",
               "RelativeToolTip": "Muntinlupa Bus E-Wallet\\LoginTabs.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:38:18.433Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-15T13:38:18.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\Login.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\Login.cs",
@@ -107,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UserManagement.cs",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\UserManagement.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\UserManagement.cs",
@@ -120,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UserManagement.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\UserManagement.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\UserManagement.cs",
@@ -131,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "connection.cs",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\connection.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\connection.cs",
@@ -164,8 +161,7 @@
               "RelativeToolTip": "Muntinlupa Bus E-Wallet\\Form1.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAnwDoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T13:42:23.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T13:42:23.972Z"
             },
             {
               "$type": "Document",

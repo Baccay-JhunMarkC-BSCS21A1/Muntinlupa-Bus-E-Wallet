@@ -43,5 +43,33 @@ namespace Muntinlupa_Bus_E_Wallet
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Timer_Click(object sender, EventArgs e)
+        {
+            if (progressBar1.Value > 100)
+            {
+                progressBar1.Value += 1;
+
+                label3.Text = progressBar1.Value.ToString() + "%";
+            }
+
+            else
+            {
+                timer1.Stop();
+
+                MessageBox.Show("Complete!!");
+            }
+        }
+
     }
 }

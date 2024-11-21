@@ -24,3 +24,17 @@ C:\Users\jhunm\source\repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\
 C:\Users\jhunm\source\repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.exe
 C:\Users\jhunm\source\repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.pdb
 C:\Users\jhunm\source\repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.UserManagement.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\bin\Debug\Muntinlupa Bus E-Wallet.exe.config
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\bin\Debug\Muntinlupa Bus E-Wallet.exe
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\bin\Debug\Muntinlupa Bus E-Wallet.pdb
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.AssemblyReference.cache
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.AdminDashboard.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.Form1.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.Login.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.LoginTabs.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.Properties.Resources.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.UserManagement.resources
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.GenerateResource.cache
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.exe
+C:\Users\Default.LAPTOP-AVTFVG93\Source\Repos\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.pdb
