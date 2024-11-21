@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -28,6 +29,37 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|c:\\users\\jhunm\\source\\repos\\muntinlupa-bus-e-wallet\\muntinlupa bus e-wallet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|c:\\users\\jhunm\\source\\repos\\muntinlupa-bus-e-wallet\\muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\logintabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|c:\\users\\jhunm\\source\\repos\\muntinlupa-bus-e-wallet\\muntinlupa bus e-wallet\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\admindashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|c:\\users\\jhunm\\source\\repos\\muntinlupa-bus-e-wallet\\muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\muntinlupa bus e-wallet\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{CB3FE583-ABF1-4B9E-B002-FC0CCA1F970F}|Muntinlupa Bus E-Wallet\\Muntinlupa Bus E-Wallet.csproj|solutionrelative:muntinlupa bus e-wallet\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,6 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -108,6 +141,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\Login.cs",
+              "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\Login.cs",
+              "ToolTip": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\Login.cs [Design]",
+              "RelativeToolTip": "Muntinlupa Bus E-Wallet\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:58.874Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginTabs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\LoginTabs.cs",
+              "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\LoginTabs.cs",
+              "ToolTip": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\LoginTabs.cs [Design]",
+              "RelativeToolTip": "Muntinlupa Bus E-Wallet\\LoginTabs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:56.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\AdminDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.Designer.cs",
+              "RelativeToolTip": "Muntinlupa Bus E-Wallet\\AdminDashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:50.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\connection.cs",
+              "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\connection.cs",
+              "ToolTip": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\connection.cs",
+              "RelativeToolTip": "Muntinlupa Bus E-Wallet\\connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:05:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+>>>>>>> Stashed changes
               "Title": "UserManagement.cs",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\UserManagement.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\UserManagement.cs",
@@ -120,7 +209,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "UserManagement.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\UserManagement.cs",
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\UserManagement.cs",
@@ -131,6 +224,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 6,
               "Title": "connection.cs",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\connection.cs",
@@ -172,6 +266,23 @@
               "DocumentIndex": 10,
               "Title": "AdminDashboard.cs",
               "DocumentMoniker": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
+=======
+              "DocumentIndex": 5,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
+              "RelativeToolTip": "Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:27:44.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jhunm\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
+>>>>>>> Stashed changes
               "RelativeDocumentMoniker": "Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
               "ToolTip": "C:\\Users\\Default.LAPTOP-AVTFVG93\\source\\repos\\Muntinlupa-Bus-E-Wallet\\Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
               "RelativeToolTip": "Muntinlupa Bus E-Wallet\\AdminDashboard.cs",
