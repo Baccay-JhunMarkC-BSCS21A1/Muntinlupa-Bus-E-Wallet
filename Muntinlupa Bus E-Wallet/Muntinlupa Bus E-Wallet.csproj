@@ -52,19 +52,25 @@
     <Compile Include="AccountRegistrationForm.Designer.cs">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmReloadAccount.cs">
+    <Compile Include="ReloadAccountForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmReloadAccount.Designer.cs">
-      <DependentUpon>frmReloadAccount.cs</DependentUpon>
+    <Compile Include="ReloadAccountForm.Designer.cs">
+      <DependentUpon>ReloadAccountForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Route&amp;FareManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Route&amp;FareManagementForm.Designer.cs">
+      <DependentUpon>Route&amp;FareManagementForm.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AccountRegistrationForm.resx">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmReloadAccount.resx">
-      <DependentUpon>frmReloadAccount.cs</DependentUpon>
+    <EmbeddedResource Include="ReloadAccountForm.resx">
+      <DependentUpon>ReloadAccountForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -75,6 +81,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Route&amp;FareManagementForm.resx">
+      <DependentUpon>Route&amp;FareManagementForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
