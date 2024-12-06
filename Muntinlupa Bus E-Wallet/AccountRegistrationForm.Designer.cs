@@ -43,6 +43,7 @@
             this.txtCustomerName.Name = "txtCustomerName";
             this.txtCustomerName.Size = new System.Drawing.Size(320, 22);
             this.txtCustomerName.TabIndex = 0;
+            this.txtCustomerName.TextChanged += new System.EventHandler(this.txtCustomerName_TextChanged);
             // 
             // txtContactInfo
             // 
@@ -50,6 +51,7 @@
             this.txtContactInfo.Name = "txtContactInfo";
             this.txtContactInfo.Size = new System.Drawing.Size(320, 22);
             this.txtContactInfo.TabIndex = 1;
+            this.txtContactInfo.TextChanged += new System.EventHandler(this.txtContactInfo_TextChanged);
             // 
             // txtInitialBalance
             // 
@@ -57,6 +59,7 @@
             this.txtInitialBalance.Name = "txtInitialBalance";
             this.txtInitialBalance.Size = new System.Drawing.Size(320, 22);
             this.txtInitialBalance.TabIndex = 2;
+            this.txtInitialBalance.TextChanged += new System.EventHandler(this.txtInitialBalance_TextChanged);
             // 
             // dtpExpirationDate
             // 
@@ -77,10 +80,11 @@
             this.btnSave.TabIndex = 5;
             this.btnSave.Text = "Save Account";
             this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
             // 
             // btnCancel
             // 
-            this.btnCancel.BackColor = System.Drawing.SystemColors.Control;
+            this.btnCancel.BackColor = System.Drawing.SystemColors.Desktop;
             this.btnCancel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.btnCancel.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnCancel.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold);
@@ -92,10 +96,13 @@
             this.btnCancel.TabIndex = 6;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // frmAccountRegistration
             // 
+            this.AccessibleDescription = "Used to register new customers.";
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.BackColor = System.Drawing.SystemColors.Desktop;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(835, 432);
@@ -109,6 +116,7 @@
             this.Name = "frmAccountRegistration";
             this.Text = "AccountRegistrationForm";
             this.TransparencyKey = System.Drawing.Color.Transparent;
+            this.Load += new System.EventHandler(this.frmAccountRegistration_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

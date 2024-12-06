@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Muntinlupa_Bus_E_Wallet
 {
-    public partial class frmAccountRegistration : Form
+    public partial class frmReloadAccount : Form
     {
-        public frmAccountRegistration()
+        public frmReloadAccount()
         {
             InitializeComponent();
         }
 
-        private void frmAccountRegistration_Load(object sender, EventArgs e)
+        private void lblCurrentBalance_Click(object sender, EventArgs e)
         {
 
         }
@@ -27,22 +27,17 @@ namespace Muntinlupa_Bus_E_Wallet
 
         }
 
-        private void btnCancel_Click(object sender, EventArgs e)
+        private void btnReloadCancel_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void txtCustomerName_TextChanged(object sender, EventArgs e)
+        private void txtAccountID_TextChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void txtContactInfo_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtInitialBalance_TextChanged(object sender, EventArgs e)
+        private void txtReloadAmount_TextChanged(object sender, EventArgs e)
         {
 
         }
