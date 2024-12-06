@@ -16,7 +16,7 @@ namespace Muntinlupa_Bus_E_Wallet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAccountRegistration());
+            Application.Run(new frmLogin());
         }
     }
 }
