@@ -59,6 +59,12 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="ManageCardExpirationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageCardExpirationForm.Designer.cs">
+      <DependentUpon>ManageCardExpirationForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="ReloadAccountForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageCardExpirationForm.resx">
+      <DependentUpon>ManageCardExpirationForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ReloadAccountForm.resx">
       <DependentUpon>ReloadAccountForm.cs</DependentUpon>
