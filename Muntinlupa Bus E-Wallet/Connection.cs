@@ -1,19 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.OleDb;
 
 namespace Muntinlupa_Bus_E_Wallet
 {
-    internal class Connection
+    internal static class DatabaseConnection
     {
-        public Connection() {
-            OleDbCommand cmd = new OleDbCommand();
-            OleDbConnection cn = new OleDbConnection();
-            
-            cn.Open();
-        } 
+        public static OleDbConnection cn = new OleDbConnection();
+        public static OleDbCommand cmd;
+        public static OleDbDataReader dr;
+        public static string sql;
+
+        public static void Connect()
+        {
+            try
+            {
+                if (cn.State != System.Data.ConnectionState.Closed)
+                    cn.Close();
+
+                cn.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + AppDomain.CurrentDomain.BaseDirectory + "MEWDB.accdb";
+                cn.Open();
+                Console.WriteLine("Database connected successfully.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error connecting to database: " + ex.Message);
+            }
+        }
     }
 }

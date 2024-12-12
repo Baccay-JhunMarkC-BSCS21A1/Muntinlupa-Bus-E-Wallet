@@ -104,7 +104,7 @@
             this.Controls.Add(this.cmbDropOffPoint);
             this.Controls.Add(this.cmbPickupPoint);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2);
+
             this.Name = "Route_FareManagementForm";
             this.Text = "Route_FareManagementForm";
             this.ResumeLayout(false);

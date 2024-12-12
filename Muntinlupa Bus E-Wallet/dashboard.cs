@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Muntinlupa_Bus_E_Wallet
 {
-    public partial class frmLogin : Form
+    public partial class frmAdminDashboard : Form
     {
-        public frmLogin()
+        public frmAdminDashboard()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
