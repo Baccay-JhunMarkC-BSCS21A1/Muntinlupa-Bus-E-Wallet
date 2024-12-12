@@ -17,6 +17,9 @@ namespace Muntinlupa_Bus_E_Wallet
             InitializeComponent();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }
