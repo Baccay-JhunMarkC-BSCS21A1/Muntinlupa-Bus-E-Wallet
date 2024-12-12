@@ -53,8 +53,6 @@
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Connection.cs" />
-
-    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,8 +81,6 @@
     </Compile>
     <EmbeddedResource Include="AccountRegistrationForm.resx">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
-    </EmbeddedResource>
-
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
