@@ -53,17 +53,19 @@
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Connection.cs" />
-    <Compile Include="DeactivateAccountForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DeactivateAccountForm.Designer.cs">
-      <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageCardExpirationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageCardExpirationForm.Designer.cs">
+      <DependentUpon>ManageCardExpirationForm.cs</DependentUpon>
     </Compile>
     <Compile Include="ReloadAccountForm.cs">
       <SubType>Form</SubType>
@@ -82,11 +84,13 @@
     <EmbeddedResource Include="AccountRegistrationForm.resx">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DeactivateAccountForm.resx">
-      <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageCardExpirationForm.resx">
+      <DependentUpon>ManageCardExpirationForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ReloadAccountForm.resx">
       <DependentUpon>ReloadAccountForm.cs</DependentUpon>

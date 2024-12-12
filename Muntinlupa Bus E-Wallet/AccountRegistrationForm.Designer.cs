@@ -41,7 +41,7 @@
             // 
             this.txtCustomerName.Location = new System.Drawing.Point(447, 130);
             this.txtCustomerName.Name = "txtCustomerName";
-            this.txtCustomerName.Size = new System.Drawing.Size(320, 22);
+            this.txtCustomerName.Size = new System.Drawing.Size(320, 20);
             this.txtCustomerName.TabIndex = 0;
             this.txtCustomerName.TextChanged += new System.EventHandler(this.txtCustomerName_TextChanged);
             // 
@@ -49,7 +49,7 @@
             // 
             this.txtContactInfo.Location = new System.Drawing.Point(447, 192);
             this.txtContactInfo.Name = "txtContactInfo";
-            this.txtContactInfo.Size = new System.Drawing.Size(320, 22);
+            this.txtContactInfo.Size = new System.Drawing.Size(320, 20);
             this.txtContactInfo.TabIndex = 1;
             this.txtContactInfo.TextChanged += new System.EventHandler(this.txtContactInfo_TextChanged);
             // 
@@ -57,7 +57,7 @@
             // 
             this.txtInitialBalance.Location = new System.Drawing.Point(447, 255);
             this.txtInitialBalance.Name = "txtInitialBalance";
-            this.txtInitialBalance.Size = new System.Drawing.Size(320, 22);
+            this.txtInitialBalance.Size = new System.Drawing.Size(320, 20);
             this.txtInitialBalance.TabIndex = 2;
             this.txtInitialBalance.TextChanged += new System.EventHandler(this.txtInitialBalance_TextChanged);
             // 
@@ -65,7 +65,7 @@
             // 
             this.dtpExpirationDate.Location = new System.Drawing.Point(447, 316);
             this.dtpExpirationDate.Name = "dtpExpirationDate";
-            this.dtpExpirationDate.Size = new System.Drawing.Size(260, 22);
+            this.dtpExpirationDate.Size = new System.Drawing.Size(260, 20);
             this.dtpExpirationDate.TabIndex = 4;
             // 
             // btnSave
