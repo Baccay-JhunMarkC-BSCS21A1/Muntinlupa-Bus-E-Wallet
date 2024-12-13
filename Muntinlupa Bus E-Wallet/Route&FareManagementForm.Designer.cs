@@ -84,10 +84,12 @@
             // lblFare
             // 
             this.lblFare.AutoSize = true;
-            this.lblFare.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFare.BackColor = System.Drawing.Color.Transparent;
+            this.lblFare.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblFare.ForeColor = System.Drawing.SystemColors.Control;
             this.lblFare.Location = new System.Drawing.Point(278, 267);
             this.lblFare.Name = "lblFare";
-            this.lblFare.Size = new System.Drawing.Size(46, 21);
+            this.lblFare.Size = new System.Drawing.Size(49, 22);
             this.lblFare.TabIndex = 9;
             this.lblFare.Text = "Fare";
             // 
@@ -104,7 +106,6 @@
             this.Controls.Add(this.cmbDropOffPoint);
             this.Controls.Add(this.cmbPickupPoint);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-
             this.Name = "Route_FareManagementForm";
             this.Text = "Route_FareManagementForm";
             this.ResumeLayout(false);
