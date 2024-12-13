@@ -182,6 +182,7 @@
             this.Controls.Add(this.lblRouteManagement);
             this.Controls.Add(this.lblAccountManagement);
             this.Controls.Add(this.btnExit);
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmAdminDashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

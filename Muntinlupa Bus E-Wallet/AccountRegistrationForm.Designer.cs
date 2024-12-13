@@ -29,37 +29,13 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmAccountRegistration));
-            this.txtCustomerName = new System.Windows.Forms.TextBox();
-            this.txtContactInfo = new System.Windows.Forms.TextBox();
-            this.txtInitialBalance = new System.Windows.Forms.TextBox();
             this.dtpExpirationDate = new System.Windows.Forms.DateTimePicker();
             this.btnSave = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
+            this.txtCustomerName = new System.Windows.Forms.TextBox();
+            this.txtContactInfo = new System.Windows.Forms.TextBox();
+            this.txtInitialBalance = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // txtCustomerName
-            // 
-            this.txtCustomerName.Location = new System.Drawing.Point(447, 130);
-            this.txtCustomerName.Name = "txtCustomerName";
-            this.txtCustomerName.Size = new System.Drawing.Size(320, 20);
-            this.txtCustomerName.TabIndex = 0;
-            this.txtCustomerName.TextChanged += new System.EventHandler(this.txtCustomerName_TextChanged);
-            // 
-            // txtContactInfo
-            // 
-            this.txtContactInfo.Location = new System.Drawing.Point(447, 192);
-            this.txtContactInfo.Name = "txtContactInfo";
-            this.txtContactInfo.Size = new System.Drawing.Size(320, 20);
-            this.txtContactInfo.TabIndex = 1;
-            this.txtContactInfo.TextChanged += new System.EventHandler(this.txtContactInfo_TextChanged);
-            // 
-            // txtInitialBalance
-            // 
-            this.txtInitialBalance.Location = new System.Drawing.Point(447, 255);
-            this.txtInitialBalance.Name = "txtInitialBalance";
-            this.txtInitialBalance.Size = new System.Drawing.Size(320, 20);
-            this.txtInitialBalance.TabIndex = 2;
-            this.txtInitialBalance.TextChanged += new System.EventHandler(this.txtInitialBalance_TextChanged);
             // 
             // dtpExpirationDate
             // 
@@ -98,25 +74,46 @@
             this.btnCancel.UseVisualStyleBackColor = false;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
+            // txtCustomerName
+            // 
+            this.txtCustomerName.Location = new System.Drawing.Point(447, 132);
+            this.txtCustomerName.Name = "txtCustomerName";
+            this.txtCustomerName.Size = new System.Drawing.Size(320, 20);
+            this.txtCustomerName.TabIndex = 7;
+            // 
+            // txtContactInfo
+            // 
+            this.txtContactInfo.Location = new System.Drawing.Point(447, 192);
+            this.txtContactInfo.Name = "txtContactInfo";
+            this.txtContactInfo.Size = new System.Drawing.Size(320, 20);
+            this.txtContactInfo.TabIndex = 8;
+            // 
+            // txtInitialBalance
+            // 
+            this.txtInitialBalance.Location = new System.Drawing.Point(447, 255);
+            this.txtInitialBalance.Name = "txtInitialBalance";
+            this.txtInitialBalance.Size = new System.Drawing.Size(320, 20);
+            this.txtInitialBalance.TabIndex = 9;
+            // 
             // frmAccountRegistration
             // 
             this.AccessibleDescription = "Used to register new customers.";
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.BackColor = System.Drawing.SystemColors.Desktop;
+            this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(835, 432);
-            this.Controls.Add(this.btnCancel);
-            this.Controls.Add(this.btnSave);
-            this.Controls.Add(this.dtpExpirationDate);
             this.Controls.Add(this.txtInitialBalance);
             this.Controls.Add(this.txtContactInfo);
             this.Controls.Add(this.txtCustomerName);
+            this.Controls.Add(this.btnCancel);
+            this.Controls.Add(this.btnSave);
+            this.Controls.Add(this.dtpExpirationDate);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmAccountRegistration";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AccountRegistrationForm";
-            this.TransparencyKey = System.Drawing.Color.Transparent;
+            this.TransparencyKey = System.Drawing.Color.Black;
             this.Load += new System.EventHandler(this.frmAccountRegistration_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -124,12 +121,11 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txtCustomerName;
-        private System.Windows.Forms.TextBox txtContactInfo;
-        private System.Windows.Forms.TextBox txtInitialBalance;
         private System.Windows.Forms.DateTimePicker dtpExpirationDate;
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.TextBox txtCustomerName;
+        private System.Windows.Forms.TextBox txtContactInfo;
+        private System.Windows.Forms.TextBox txtInitialBalance;
     }
 }
