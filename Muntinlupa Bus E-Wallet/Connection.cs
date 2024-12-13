@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Data.OleDb;
+using System.Diagnostics.Eventing.Reader;
+using System.Windows.Forms;
 
 namespace Muntinlupa_Bus_E_Wallet
 {
@@ -14,17 +16,25 @@ namespace Muntinlupa_Bus_E_Wallet
         {
             try
             {
+                // Ensure the connection is closed before opening
                 if (cn.State != System.Data.ConnectionState.Closed)
                     cn.Close();
 
-                cn.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + AppDomain.CurrentDomain.BaseDirectory + "MEWDB.accdb";
+                // Updated connection string for .accdb files
+                cn.ConnectionString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=" + AppDomain.CurrentDomain.BaseDirectory + "MEWDB.accdb";
                 cn.Open();
-                Console.WriteLine("Database connected successfully.");
+                //MessageBox.Show("Database connected successfully.");
+            }
+            catch (OleDbException oleDbEx)
+            {
+                Console.WriteLine("Database error: " + oleDbEx.Message);
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Error connecting to database: " + ex.Message);
+                Console.WriteLine("General error: " + ex.Message);
             }
         }
+
+
     }
 }

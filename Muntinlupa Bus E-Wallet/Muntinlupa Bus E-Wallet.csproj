@@ -79,6 +79,7 @@
     <Compile Include="Route&amp;FareManagementForm.Designer.cs">
       <DependentUpon>Route&amp;FareManagementForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="User.cs" />
     <EmbeddedResource Include="AccountRegistrationForm.resx">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </EmbeddedResource>
