@@ -33,24 +33,21 @@
             this.txtPassword = new System.Windows.Forms.TextBox();
             this.btnLogIn = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
-            this.lblPrompt = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtUsername
             // 
-            this.txtUsername.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUsername.Location = new System.Drawing.Point(248, 210);
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(280, 25);
+            this.txtUsername.Size = new System.Drawing.Size(280, 20);
             this.txtUsername.TabIndex = 2;
             // 
             // txtPassword
             // 
-            this.txtPassword.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold);
             this.txtPassword.Location = new System.Drawing.Point(248, 255);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
-            this.txtPassword.Size = new System.Drawing.Size(280, 25);
+            this.txtPassword.Size = new System.Drawing.Size(280, 20);
             this.txtPassword.TabIndex = 3;
             // 
             // btnLogIn
@@ -85,19 +82,7 @@
             this.btnCancel.UseVisualStyleBackColor = false;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click_1);
             // 
-            // lblPrompt
-            // 
-            this.lblPrompt.AutoSize = true;
-            this.lblPrompt.BackColor = System.Drawing.Color.Transparent;
-            this.lblPrompt.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold);
-            this.lblPrompt.ForeColor = System.Drawing.Color.White;
-            this.lblPrompt.Location = new System.Drawing.Point(245, 283);
-            this.lblPrompt.Name = "lblPrompt";
-            this.lblPrompt.Size = new System.Drawing.Size(47, 17);
-            this.lblPrompt.TabIndex = 8;
-            this.lblPrompt.Text = "label1";
-            // 
-            // frmLogin
+            // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -105,14 +90,12 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(835, 432);
-            this.Controls.Add(this.lblPrompt);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnLogIn);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.txtUsername);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "frmLogin";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Name = "LoginForm";
             this.Text = "frmLogin";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -124,6 +107,5 @@
         private System.Windows.Forms.TextBox txtPassword;
         private System.Windows.Forms.Button btnLogIn;
         private System.Windows.Forms.Button btnCancel;
-        private System.Windows.Forms.Label lblPrompt;
     }
 }

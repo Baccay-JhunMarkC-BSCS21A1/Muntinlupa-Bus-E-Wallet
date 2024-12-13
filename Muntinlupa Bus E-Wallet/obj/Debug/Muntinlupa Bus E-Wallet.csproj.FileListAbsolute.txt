@@ -22,7 +22,3 @@ C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.CoreCompileInputs.cache
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.exe
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.pdb
-C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmAdminDashboard.resources
-C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmCardTap.resources
-C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmDeactivateAccount.resources
-C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmPickupDropOffHistory.resources
