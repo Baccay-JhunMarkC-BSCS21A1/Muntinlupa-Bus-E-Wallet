@@ -8,6 +8,7 @@ namespace Muntinlupa_Bus_E_Wallet
         public string Username { get; set; }
         public string Password { get; set; }
 
+
         public bool Login(string username, string password)
         {
             try
@@ -25,7 +26,7 @@ namespace Muntinlupa_Bus_E_Wallet
 
                 if (DatabaseConnection.dr.HasRows)
                 {
-                    Console.WriteLine("Login successful.");
+                    
                     return true;
                 }
                 else

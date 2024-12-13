@@ -11,6 +11,7 @@ namespace Muntinlupa_Bus_E_Wallet
         {
             InitializeComponent();
             _user = new User();
+            lblPrompt.Visible= false;
             
         }
 
@@ -23,11 +24,17 @@ namespace Muntinlupa_Bus_E_Wallet
             if (_user.Login(username, password))
             {
                 //MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
+                frmAdminDashboard forms = new frmAdminDashboard();
+                forms.Show();
+                txtUsername.Text = "";
+                txtPassword.Text = "";
+                lblPrompt.Visible = false;
+                this.Hide();
             }
             else
             {
-                //MessageBox.Show("Invalid username or password.", "Login Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                lblPrompt.Text = "Incorrect User or Password.";
+                lblPrompt.Visible = true;
             }
         }
 
