@@ -46,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountRegistrationForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AccountRegistrationForm.Designer.cs">
-      <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="AdminDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,9 +98,6 @@
       <DependentUpon>Route&amp;FareManagementForm.cs</DependentUpon>
     </Compile>
     <Compile Include="User.cs" />
-    <EmbeddedResource Include="AccountRegistrationForm.resx">
-      <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="AdminDashboard.resx">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
     </EmbeddedResource>
