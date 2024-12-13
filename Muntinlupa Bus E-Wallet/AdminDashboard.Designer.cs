@@ -35,6 +35,9 @@
             this.lblCardExpirationHistory = new System.Windows.Forms.Label();
             this.lblReloadAccount = new System.Windows.Forms.Label();
             this.lblHistory = new System.Windows.Forms.Label();
+            this.lblRegister = new System.Windows.Forms.Label();
+            this.lblDeactivate = new System.Windows.Forms.Label();
+            this.lblCardManagement = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnExit
@@ -79,6 +82,7 @@
             this.lblRouteManagement.Size = new System.Drawing.Size(152, 19);
             this.lblRouteManagement.TabIndex = 10;
             this.lblRouteManagement.Text = "Route Management";
+            this.lblRouteManagement.Click += new System.EventHandler(this.lblRouteManagement_Click);
             // 
             // lblCardExpirationHistory
             // 
@@ -120,6 +124,46 @@
             this.lblHistory.Size = new System.Drawing.Size(66, 19);
             this.lblHistory.TabIndex = 14;
             this.lblHistory.Text = "History";
+            this.lblHistory.Click += new System.EventHandler(this.lblHistory_Click);
+            // 
+            // lblRegister
+            // 
+            this.lblRegister.AutoSize = true;
+            this.lblRegister.BackColor = System.Drawing.Color.Transparent;
+            this.lblRegister.Font = new System.Drawing.Font("Times New Roman", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRegister.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblRegister.Location = new System.Drawing.Point(179, 207);
+            this.lblRegister.Name = "lblRegister";
+            this.lblRegister.Size = new System.Drawing.Size(51, 13);
+            this.lblRegister.TabIndex = 15;
+            this.lblRegister.Text = "Register";
+            this.lblRegister.Click += new System.EventHandler(this.lblRegister_Click);
+            // 
+            // lblDeactivate
+            // 
+            this.lblDeactivate.AutoSize = true;
+            this.lblDeactivate.BackColor = System.Drawing.Color.Transparent;
+            this.lblDeactivate.Font = new System.Drawing.Font("Times New Roman", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDeactivate.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblDeactivate.Location = new System.Drawing.Point(226, 207);
+            this.lblDeactivate.Name = "lblDeactivate";
+            this.lblDeactivate.Size = new System.Drawing.Size(61, 13);
+            this.lblDeactivate.TabIndex = 16;
+            this.lblDeactivate.Text = "Deactivate";
+            this.lblDeactivate.Click += new System.EventHandler(this.lblDeactivate_Click);
+            // 
+            // lblCardManagement
+            // 
+            this.lblCardManagement.AutoSize = true;
+            this.lblCardManagement.BackColor = System.Drawing.Color.Transparent;
+            this.lblCardManagement.Font = new System.Drawing.Font("Times New Roman", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCardManagement.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblCardManagement.Location = new System.Drawing.Point(283, 207);
+            this.lblCardManagement.Name = "lblCardManagement";
+            this.lblCardManagement.Size = new System.Drawing.Size(104, 13);
+            this.lblCardManagement.TabIndex = 17;
+            this.lblCardManagement.Text = "Card Management";
+            this.lblCardManagement.Click += new System.EventHandler(this.lblCardManagement_Click);
             // 
             // frmAdminDashboard
             // 
@@ -129,6 +173,9 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(835, 432);
+            this.Controls.Add(this.lblCardManagement);
+            this.Controls.Add(this.lblDeactivate);
+            this.Controls.Add(this.lblRegister);
             this.Controls.Add(this.lblHistory);
             this.Controls.Add(this.lblReloadAccount);
             this.Controls.Add(this.lblCardExpirationHistory);
@@ -153,5 +200,8 @@
         private System.Windows.Forms.Label lblCardExpirationHistory;
         private System.Windows.Forms.Label lblReloadAccount;
         private System.Windows.Forms.Label lblHistory;
+        private System.Windows.Forms.Label lblRegister;
+        private System.Windows.Forms.Label lblDeactivate;
+        private System.Windows.Forms.Label lblCardManagement;
     }
 }
