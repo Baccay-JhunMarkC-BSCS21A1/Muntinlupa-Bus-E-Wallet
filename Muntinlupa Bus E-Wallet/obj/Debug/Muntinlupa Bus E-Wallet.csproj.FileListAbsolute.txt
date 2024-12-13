@@ -25,3 +25,4 @@ C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmCardTap.resources
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmDeactivateAccount.resources
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmPickupDropOffHistory.resources
+C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmAccountRegistration.resources

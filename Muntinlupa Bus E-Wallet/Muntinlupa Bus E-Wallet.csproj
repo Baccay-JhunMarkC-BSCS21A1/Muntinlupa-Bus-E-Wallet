@@ -59,11 +59,18 @@
       <DependentUpon>CardTap.cs</DependentUpon>
     </Compile>
     <Compile Include="Connection.cs" />
+    <Compile Include="CustomerAccount.cs" />
     <Compile Include="DeactivateAccountForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="DeactivateAccountForm.Designer.cs">
       <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountRegistration.Designer.cs">
+      <DependentUpon>frmAccountRegistration.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -106,6 +113,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DeactivateAccountForm.resx">
       <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountRegistration.resx">
+      <DependentUpon>frmAccountRegistration.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
