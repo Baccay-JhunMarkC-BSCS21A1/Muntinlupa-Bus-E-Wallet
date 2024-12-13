@@ -59,7 +59,6 @@
             this.lblCurrentBalance.TabIndex = 2;
             this.lblCurrentBalance.Text = "0.00";
             this.lblCurrentBalance.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblCurrentBalance.Click += new System.EventHandler(this.lblCurrentBalance_Click);
             // 
             // btnReload
             // 
@@ -74,7 +73,7 @@
             this.btnReload.TabIndex = 6;
             this.btnReload.Text = "Confirm Reload";
             this.btnReload.UseVisualStyleBackColor = true;
-            this.btnReload.Click += new System.EventHandler(this.btnSave_Click);
+            this.btnReload.Click += new System.EventHandler(this.btnReload_Click_1);
             // 
             // txtReloadAmount
             // 
@@ -83,7 +82,6 @@
             this.txtReloadAmount.Name = "txtReloadAmount";
             this.txtReloadAmount.Size = new System.Drawing.Size(238, 20);
             this.txtReloadAmount.TabIndex = 7;
-            this.txtReloadAmount.TextChanged += new System.EventHandler(this.txtReloadAmount_TextChanged);
             // 
             // btnReloadCancel
             // 
