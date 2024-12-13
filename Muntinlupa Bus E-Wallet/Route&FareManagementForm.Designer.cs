@@ -107,6 +107,7 @@
             this.Controls.Add(this.cmbPickupPoint);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Route_FareManagementForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Route_FareManagementForm";
             this.ResumeLayout(false);
             this.PerformLayout();

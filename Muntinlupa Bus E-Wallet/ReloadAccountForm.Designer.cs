@@ -39,7 +39,7 @@
             // txtAccountID
             // 
             this.txtAccountID.Location = new System.Drawing.Point(299, 162);
-            this.txtAccountID.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAccountID.Margin = new System.Windows.Forms.Padding(2);
             this.txtAccountID.Name = "txtAccountID";
             this.txtAccountID.Size = new System.Drawing.Size(263, 20);
             this.txtAccountID.TabIndex = 1;
@@ -68,7 +68,7 @@
             this.btnReload.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnReload.Image = ((System.Drawing.Image)(resources.GetObject("btnReload.Image")));
             this.btnReload.Location = new System.Drawing.Point(352, 315);
-            this.btnReload.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnReload.Margin = new System.Windows.Forms.Padding(2);
             this.btnReload.Name = "btnReload";
             this.btnReload.Size = new System.Drawing.Size(106, 25);
             this.btnReload.TabIndex = 6;
@@ -79,7 +79,7 @@
             // txtReloadAmount
             // 
             this.txtReloadAmount.Location = new System.Drawing.Point(299, 271);
-            this.txtReloadAmount.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtReloadAmount.Margin = new System.Windows.Forms.Padding(2);
             this.txtReloadAmount.Name = "txtReloadAmount";
             this.txtReloadAmount.Size = new System.Drawing.Size(238, 20);
             this.txtReloadAmount.TabIndex = 7;
@@ -94,7 +94,7 @@
             this.btnReloadCancel.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btnReloadCancel.Image = ((System.Drawing.Image)(resources.GetObject("btnReloadCancel.Image")));
             this.btnReloadCancel.Location = new System.Drawing.Point(463, 314);
-            this.btnReloadCancel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnReloadCancel.Margin = new System.Windows.Forms.Padding(2);
             this.btnReloadCancel.Name = "btnReloadCancel";
             this.btnReloadCancel.Size = new System.Drawing.Size(74, 25);
             this.btnReloadCancel.TabIndex = 8;
@@ -117,8 +117,9 @@
             this.Controls.Add(this.lblCurrentBalance);
             this.Controls.Add(this.txtAccountID);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmReloadAccount";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ReloadAccountForm";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -108,6 +108,7 @@
             this.Controls.Add(this.txtAccountID);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmCardExpiration";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ManageCardExpirationForm";
             this.ResumeLayout(false);
             this.PerformLayout();
