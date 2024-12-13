@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmDeactivateAccount));
             this.txtAccountID = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtReason = new System.Windows.Forms.TextBox();
             this.btnCancel = new System.Windows.Forms.Button();
             this.btnDeactivate = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -43,12 +43,12 @@
             this.txtAccountID.TabIndex = 0;
             this.txtAccountID.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
-            // textBox1
+            // txtReason
             // 
-            this.textBox1.Location = new System.Drawing.Point(318, 215);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(259, 20);
-            this.textBox1.TabIndex = 1;
+            this.txtReason.Location = new System.Drawing.Point(318, 215);
+            this.txtReason.Name = "txtReason";
+            this.txtReason.Size = new System.Drawing.Size(259, 20);
+            this.txtReason.TabIndex = 1;
             // 
             // btnCancel
             // 
@@ -64,6 +64,7 @@
             this.btnCancel.TabIndex = 8;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnDeactivate
             // 
@@ -77,6 +78,7 @@
             this.btnDeactivate.TabIndex = 7;
             this.btnDeactivate.Text = "Deactivate Account";
             this.btnDeactivate.UseVisualStyleBackColor = true;
+            this.btnDeactivate.Click += new System.EventHandler(this.btnDeactivate_Click);
             // 
             // frmDeactivateAccount
             // 
@@ -88,7 +90,7 @@
             this.ClientSize = new System.Drawing.Size(835, 432);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnDeactivate);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtReason);
             this.Controls.Add(this.txtAccountID);
             this.Font = new System.Drawing.Font("Times New Roman", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -103,7 +105,7 @@
         #endregion
 
         private System.Windows.Forms.TextBox txtAccountID;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtReason;
         private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Button btnDeactivate;
     }
