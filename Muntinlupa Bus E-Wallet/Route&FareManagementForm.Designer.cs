@@ -33,12 +33,19 @@
             this.cmbDropOffPoint = new System.Windows.Forms.ComboBox();
             this.btnCancel = new System.Windows.Forms.Button();
             this.btnSaveRoute = new System.Windows.Forms.Button();
-            this.lblFare = new System.Windows.Forms.Label();
+            this.lblFare = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // cmbPickupPoint
             // 
             this.cmbPickupPoint.FormattingEnabled = true;
+            this.cmbPickupPoint.Items.AddRange(new object[] {
+            "Cupang",
+            "Alabang",
+            "Bayanan",
+            "Putatan",
+            "Poblacion",
+            "Tunasan"});
             this.cmbPickupPoint.Location = new System.Drawing.Point(282, 164);
             this.cmbPickupPoint.Name = "cmbPickupPoint";
             this.cmbPickupPoint.Size = new System.Drawing.Size(254, 21);
@@ -47,6 +54,13 @@
             // cmbDropOffPoint
             // 
             this.cmbDropOffPoint.FormattingEnabled = true;
+            this.cmbDropOffPoint.Items.AddRange(new object[] {
+            "Cupang",
+            "Alabang",
+            "Bayanan",
+            "Putatan",
+            "Poblacion",
+            "Tunasan"});
             this.cmbDropOffPoint.Location = new System.Drawing.Point(282, 220);
             this.cmbDropOffPoint.Name = "cmbDropOffPoint";
             this.cmbDropOffPoint.Size = new System.Drawing.Size(254, 21);
@@ -66,6 +80,7 @@
             this.btnCancel.TabIndex = 8;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnSaveRoute
             // 
@@ -80,18 +95,14 @@
             this.btnSaveRoute.TabIndex = 7;
             this.btnSaveRoute.Text = "Save Route Details";
             this.btnSaveRoute.UseVisualStyleBackColor = false;
+            this.btnSaveRoute.Click += new System.EventHandler(this.btnSaveRoute_Click);
             // 
             // lblFare
             // 
-            this.lblFare.AutoSize = true;
-            this.lblFare.BackColor = System.Drawing.Color.Transparent;
-            this.lblFare.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblFare.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblFare.Location = new System.Drawing.Point(278, 267);
+            this.lblFare.Location = new System.Drawing.Point(282, 268);
             this.lblFare.Name = "lblFare";
-            this.lblFare.Size = new System.Drawing.Size(49, 22);
-            this.lblFare.TabIndex = 9;
-            this.lblFare.Text = "Fare";
+            this.lblFare.Size = new System.Drawing.Size(254, 20);
+            this.lblFare.TabIndex = 10;
             // 
             // Route_FareManagementForm
             // 
@@ -120,6 +131,6 @@
         private System.Windows.Forms.ComboBox cmbDropOffPoint;
         private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Button btnSaveRoute;
-        private System.Windows.Forms.Label lblFare;
+        private System.Windows.Forms.TextBox lblFare;
     }
 }

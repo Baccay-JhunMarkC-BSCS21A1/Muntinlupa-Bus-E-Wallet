@@ -66,7 +66,7 @@ namespace Muntinlupa_Bus_E_Wallet
         {
             frmAccountRegistration form = new frmAccountRegistration();
             form.Show();
-            this.Hide():
+            this.Hide();
         }
 
         private void lblDeactivate_Click(object sender, EventArgs e)
