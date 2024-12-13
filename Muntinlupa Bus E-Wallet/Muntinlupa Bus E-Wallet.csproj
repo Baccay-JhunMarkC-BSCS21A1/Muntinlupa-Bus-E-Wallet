@@ -46,12 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountRegistrationForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AccountRegistrationForm.Designer.cs">
-      <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="AdminDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,11 +59,18 @@
       <DependentUpon>CardTap.cs</DependentUpon>
     </Compile>
     <Compile Include="Connection.cs" />
+    <Compile Include="CustomerAccount.cs" />
     <Compile Include="DeactivateAccountForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="DeactivateAccountForm.Designer.cs">
       <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountRegistration.Designer.cs">
+      <DependentUpon>frmAccountRegistration.cs</DependentUpon>
     </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
@@ -104,9 +105,6 @@
       <DependentUpon>Route&amp;FareManagementForm.cs</DependentUpon>
     </Compile>
     <Compile Include="User.cs" />
-    <EmbeddedResource Include="AccountRegistrationForm.resx">
-      <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="AdminDashboard.resx">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
     </EmbeddedResource>
@@ -115,6 +113,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DeactivateAccountForm.resx">
       <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountRegistration.resx">
+      <DependentUpon>frmAccountRegistration.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
