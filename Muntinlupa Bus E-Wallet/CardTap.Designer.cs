@@ -105,6 +105,7 @@
             this.Controls.Add(this.txtCardID);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmCardTap";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CardTap";
             this.ResumeLayout(false);
             this.PerformLayout();

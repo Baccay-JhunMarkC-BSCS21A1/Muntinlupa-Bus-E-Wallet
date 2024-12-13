@@ -52,7 +52,25 @@
     <Compile Include="AccountRegistrationForm.Designer.cs">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CardTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CardTap.Designer.cs">
+      <DependentUpon>CardTap.cs</DependentUpon>
+    </Compile>
     <Compile Include="Connection.cs" />
+    <Compile Include="DeactivateAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeactivateAccountForm.Designer.cs">
+      <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +82,12 @@
     </Compile>
     <Compile Include="ManageCardExpirationForm.Designer.cs">
       <DependentUpon>ManageCardExpirationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PickupDropOffHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PickupDropOffHistory.Designer.cs">
+      <DependentUpon>PickupDropOffHistory.cs</DependentUpon>
     </Compile>
     <Compile Include="ReloadAccountForm.cs">
       <SubType>Form</SubType>
@@ -83,11 +107,23 @@
     <EmbeddedResource Include="AccountRegistrationForm.resx">
       <DependentUpon>AccountRegistrationForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CardTap.resx">
+      <DependentUpon>CardTap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeactivateAccountForm.resx">
+      <DependentUpon>DeactivateAccountForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ManageCardExpirationForm.resx">
       <DependentUpon>ManageCardExpirationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PickupDropOffHistory.resx">
+      <DependentUpon>PickupDropOffHistory.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ReloadAccountForm.resx">
       <DependentUpon>ReloadAccountForm.cs</DependentUpon>
