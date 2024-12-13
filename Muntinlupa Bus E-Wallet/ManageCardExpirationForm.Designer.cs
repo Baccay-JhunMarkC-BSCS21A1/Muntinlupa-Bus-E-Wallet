@@ -79,6 +79,7 @@
             this.btnCancel.TabIndex = 8;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // btnRenew
             // 
@@ -93,6 +94,7 @@
             this.btnRenew.TabIndex = 7;
             this.btnRenew.Text = "Renew Card";
             this.btnRenew.UseVisualStyleBackColor = false;
+            this.btnRenew.Click += new System.EventHandler(this.btnRenew_Click_1);
             // 
             // frmCardExpiration
             // 
