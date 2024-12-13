@@ -24,7 +24,6 @@ namespace Muntinlupa_Bus_E_Wallet
 
         private void frmAdminDashboard_Load(object sender, EventArgs e)
         {
-
         }
 
         private void lblCardExpirationHistory_Click(object sender, EventArgs e)
