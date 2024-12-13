@@ -30,10 +30,10 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmCardTap));
             this.txtCardID = new System.Windows.Forms.TextBox();
-            this.txtLocation = new System.Windows.Forms.TextBox();
             this.lblActionType = new System.Windows.Forms.Label();
             this.btnCancel = new System.Windows.Forms.Button();
             this.btnTap = new System.Windows.Forms.Button();
+            this.txtLocation = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // txtCardID
@@ -42,13 +42,6 @@
             this.txtCardID.Name = "txtCardID";
             this.txtCardID.Size = new System.Drawing.Size(297, 20);
             this.txtCardID.TabIndex = 0;
-            // 
-            // txtLocation
-            // 
-            this.txtLocation.Location = new System.Drawing.Point(278, 247);
-            this.txtLocation.Name = "txtLocation";
-            this.txtLocation.Size = new System.Drawing.Size(297, 20);
-            this.txtLocation.TabIndex = 1;
             // 
             // lblActionType
             // 
@@ -90,6 +83,21 @@
             this.btnTap.Text = "Process the Tap";
             this.btnTap.UseVisualStyleBackColor = true;
             // 
+            // txtLocation
+            // 
+            this.txtLocation.FormattingEnabled = true;
+            this.txtLocation.Items.AddRange(new object[] {
+            "Cupang",
+            "Alabang",
+            "Bayanan",
+            "Putatan",
+            "Poblacion",
+            "Tunasan"});
+            this.txtLocation.Location = new System.Drawing.Point(279, 246);
+            this.txtLocation.Name = "txtLocation";
+            this.txtLocation.Size = new System.Drawing.Size(296, 21);
+            this.txtLocation.TabIndex = 9;
+            // 
             // frmCardTap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -98,10 +106,10 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(835, 432);
+            this.Controls.Add(this.txtLocation);
             this.Controls.Add(this.btnCancel);
             this.Controls.Add(this.btnTap);
             this.Controls.Add(this.lblActionType);
-            this.Controls.Add(this.txtLocation);
             this.Controls.Add(this.txtCardID);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmCardTap";
@@ -115,9 +123,9 @@
         #endregion
 
         private System.Windows.Forms.TextBox txtCardID;
-        private System.Windows.Forms.TextBox txtLocation;
         private System.Windows.Forms.Label lblActionType;
         private System.Windows.Forms.Button btnCancel;
         private System.Windows.Forms.Button btnTap;
+        private System.Windows.Forms.ComboBox txtLocation;
     }
 }
