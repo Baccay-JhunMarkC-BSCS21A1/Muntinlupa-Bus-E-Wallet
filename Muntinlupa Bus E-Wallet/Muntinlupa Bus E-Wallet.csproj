@@ -104,6 +104,7 @@
     <Compile Include="Route&amp;FareManagementForm.Designer.cs">
       <DependentUpon>Route&amp;FareManagementForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Route.cs" />
     <Compile Include="User.cs" />
     <EmbeddedResource Include="AdminDashboard.resx">
       <DependentUpon>AdminDashboard.cs</DependentUpon>
