@@ -67,7 +67,7 @@ namespace Muntinlupa_Bus_E_Wallet
             frmAccountRegistration form = new frmAccountRegistration();
             form.Show();
 
-            this.Hide():
+            this.Hide();
 
         }
 
@@ -81,6 +81,13 @@ namespace Muntinlupa_Bus_E_Wallet
         private void lblCardManagement_Click(object sender, EventArgs e)
         {
             frmCardExpiration form = new frmCardExpiration();
+            form.Show();
+            this.Hide();
+        }
+
+        private void btnCardTap_Click(object sender, EventArgs e)
+        {
+            frmCardTap form = new frmCardTap();
             form.Show();
             this.Hide();
         }

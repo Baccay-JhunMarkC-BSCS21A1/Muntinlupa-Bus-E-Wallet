@@ -38,6 +38,7 @@
             this.lblRegister = new System.Windows.Forms.Label();
             this.lblDeactivate = new System.Windows.Forms.Label();
             this.lblCardManagement = new System.Windows.Forms.Label();
+            this.btnCardTap = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnExit
@@ -165,6 +166,16 @@
             this.lblCardManagement.Text = "Card Management";
             this.lblCardManagement.Click += new System.EventHandler(this.lblCardManagement_Click);
             // 
+            // btnCardTap
+            // 
+            this.btnCardTap.Location = new System.Drawing.Point(411, 309);
+            this.btnCardTap.Name = "btnCardTap";
+            this.btnCardTap.Size = new System.Drawing.Size(108, 31);
+            this.btnCardTap.TabIndex = 18;
+            this.btnCardTap.Text = "Card Tapping";
+            this.btnCardTap.UseVisualStyleBackColor = true;
+            this.btnCardTap.Click += new System.EventHandler(this.btnCardTap_Click);
+            // 
             // frmAdminDashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -173,6 +184,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(835, 432);
+            this.Controls.Add(this.btnCardTap);
             this.Controls.Add(this.lblCardManagement);
             this.Controls.Add(this.lblDeactivate);
             this.Controls.Add(this.lblRegister);
@@ -203,5 +215,6 @@
         private System.Windows.Forms.Label lblRegister;
         private System.Windows.Forms.Label lblDeactivate;
         private System.Windows.Forms.Label lblCardManagement;
+        private System.Windows.Forms.Button btnCardTap;
     }
 }

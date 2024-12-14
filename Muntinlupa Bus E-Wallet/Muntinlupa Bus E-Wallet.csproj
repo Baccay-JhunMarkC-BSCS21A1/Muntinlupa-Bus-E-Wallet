@@ -58,6 +58,7 @@
     <Compile Include="CardTap.Designer.cs">
       <DependentUpon>CardTap.cs</DependentUpon>
     </Compile>
+    <Compile Include="CardTapping.cs" />
     <Compile Include="Connection.cs" />
     <Compile Include="CustomerAccount.cs" />
     <Compile Include="DeactivateAccountForm.cs">
