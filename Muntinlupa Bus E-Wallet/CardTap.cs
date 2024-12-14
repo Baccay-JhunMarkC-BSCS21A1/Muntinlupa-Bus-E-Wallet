@@ -18,8 +18,8 @@ namespace Muntinlupa_Bus_E_Wallet
                 return;
             }
 
-            string actionType = txtLocation.Text.Contains("PickUp") ? "Pickup" : "Drop-off";
-            lblActionType.Text = actionType;
+            string actionType = lblActionType.Text;
+          
 
             CardTapping cardTap = new CardTapping(Convert.ToInt32(txtCardID.Text), actionType, txtLocation.Text);
 
@@ -45,10 +45,15 @@ namespace Muntinlupa_Bus_E_Wallet
         {
             txtCardID.Clear();
             txtLocation.SelectedIndex =0;
-            lblActionType.Text = string.Empty;
+            lblActionType.SelectedIndex = 0;
         }
 
         private void btnCancel_Click_1(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void btnCancel_Click_2(object sender, EventArgs e)
         {
             ClearFields();
             frmLogin form = new frmLogin();

@@ -17,7 +17,7 @@ namespace Muntinlupa_Bus_E_Wallet
             ActionType = actionType;
             Location = location;
 
-            FareDeduction = ActionType == "Pickup" ? 50.00m : 30.00m; 
+            FareDeduction = ActionType == "Pickup" ? 13.00m : 0.00m; 
         }
 
         public bool ProcessTap()
