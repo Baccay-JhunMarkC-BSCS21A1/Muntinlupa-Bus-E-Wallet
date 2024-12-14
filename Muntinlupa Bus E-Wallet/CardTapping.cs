@@ -41,7 +41,7 @@ namespace Muntinlupa_Bus_E_Wallet
                     cmd.Parameters.AddWithValue("@AccountID", accountID);
                     cmd.Parameters.AddWithValue("@ActionType", ActionType);
                     cmd.Parameters.AddWithValue("@Location", Location);
-                    cmd.Parameters.AddWithValue("@TripDateTime", DateTime.Now);
+                    cmd.Parameters.AddWithValue("@TripDateTime", DateTime.Now.ToString("dd/MM/yyyy"));
                     cmd.Parameters.AddWithValue("@FareDeduction", FareDeduction);
 
                     int rowsAffected = cmd.ExecuteNonQuery();

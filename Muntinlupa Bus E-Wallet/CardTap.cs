@@ -28,7 +28,7 @@ namespace Muntinlupa_Bus_E_Wallet
             if (isProcessed)
             {
                 MessageBox.Show("Card tap successfully processed!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                ClearFields();
+                
             }
             else
             {
