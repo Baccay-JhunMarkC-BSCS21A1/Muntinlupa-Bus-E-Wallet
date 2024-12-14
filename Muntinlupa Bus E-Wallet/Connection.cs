@@ -27,11 +27,11 @@ namespace Muntinlupa_Bus_E_Wallet
             }
             catch (OleDbException oleDbEx)
             {
-                Console.WriteLine("Database error: " + oleDbEx.Message);
+                MessageBox.Show("Database error: " + oleDbEx.Message);
             }
             catch (Exception ex)
             {
-                Console.WriteLine("General error: " + ex.Message);
+                MessageBox.Show("General error: " + ex.Message);
             }
         }
 

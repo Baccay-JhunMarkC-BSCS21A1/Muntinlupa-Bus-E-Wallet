@@ -26,3 +26,21 @@ C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmDeactivateAccount.resources
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmPickupDropOffHistory.resources
 C:\Users\jhunm\Desktop\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmAccountRegistration.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmAdminDashboard.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmCardTap.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmDeactivateAccount.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmAccountRegistration.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmLogin.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmCardExpiration.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmPickupDropOffHistory.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.frmReloadAccount.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.Properties.Resources.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa_Bus_E_Wallet.Route_FareManagementForm.resources
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.GenerateResource.cache
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.exe
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\obj\Debug\Muntinlupa Bus E-Wallet.pdb
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\bin\Debug\Muntinlupa Bus E-Wallet.exe.config
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\bin\Debug\Muntinlupa Bus E-Wallet.exe
+C:\Users\STUDENT\Documents\GitHub\Muntinlupa-Bus-E-Wallet\Muntinlupa Bus E-Wallet\bin\Debug\Muntinlupa Bus E-Wallet.pdb
