@@ -82,6 +82,7 @@
             this.btnTap.TabIndex = 7;
             this.btnTap.Text = "Process the Tap";
             this.btnTap.UseVisualStyleBackColor = true;
+            this.btnTap.Click += new System.EventHandler(this.btnTap_Click);
             // 
             // txtLocation
             // 

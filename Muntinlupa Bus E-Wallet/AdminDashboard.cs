@@ -84,5 +84,12 @@ namespace Muntinlupa_Bus_E_Wallet
             form.Show();
             this.Hide();
         }
+
+        private void btnCardTap_Click(object sender, EventArgs e)
+        {
+            frmCardTap form = new frmCardTap();
+            form.Show();
+            this.Hide();
+        }
     }
 }
