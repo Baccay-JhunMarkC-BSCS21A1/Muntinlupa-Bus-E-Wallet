@@ -166,5 +166,13 @@ namespace Muntinlupa_Bus_E_Wallet
                 MessageBox.Show($"Error: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void btnCancel_Click_1(object sender, EventArgs e)
+        {
+            frmAdminDashboard form = new frmAdminDashboard();
+            form.Show();
+            ClearFields();
+            this.Hide();
+        }
     }
 }
